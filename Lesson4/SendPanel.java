@@ -9,6 +9,7 @@ import java.util.Date;
 
 /**
  * @author Anatoly Yakovlev
+
  */
 class SendPanel extends JPanel {
     private JTextField textField;

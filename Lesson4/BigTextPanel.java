@@ -8,6 +8,7 @@ import java.awt.*;
 
 /**
  * @author Anatoly Yakovlev
+
  */
 class BigTextPanel extends JPanel {
     private JTextArea textArea;

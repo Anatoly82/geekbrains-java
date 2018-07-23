@@ -5,6 +5,7 @@ import java.awt.*;
 
 /**
  * @author Anatoly Yakovlev
+
  */
 class Frame extends JFrame {
 
